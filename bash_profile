@@ -1,3 +1,4 @@
+
 # Hello Messsage --------------------------------------------------
 echo -e "Kernel Information: " `uname -smr`
 echo -e "`bash --version`"
@@ -9,3 +10,4 @@ if [ -f $HOME/.bashrc ]; then
 fi
 
 set -o vi
+
