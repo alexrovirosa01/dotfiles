@@ -3,7 +3,6 @@
 ![Assignment 6](https://github.com/PGE383-HPC/assignment6/actions/workflows/main.yml/badge.svg)
 
 
-## Instructions
 
 1. **Move** the existing `$HOME/.bashrc` file into this repository and name it `bashrc` (removing the period "." from the filename will make it visible by default on all filebrowser systems). Don't forget to `git add bashrc` to ensure the file is tracked in the repository before committing.
 
